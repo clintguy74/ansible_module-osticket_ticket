@@ -1,6 +1,10 @@
 ansible\_module-osticket\_ticket
 ================================
 
+Requirements
+--------------------------------
+`requests`
+
 Installation
 --------------------------------
 1. Clone repo
